@@ -2,3 +2,4 @@ tensorflow
 transformers==4.24.0
 torch==1.11.0
 gunicorn
+Flask
